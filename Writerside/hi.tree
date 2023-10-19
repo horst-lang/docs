@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi" name="Horst Docs"
+                 start-page="">
+
+    <toc-element topic="Getting-started.md"/>
+    <toc-element topic="Basics.md">
+        <toc-element topic="Variables.md"/>
+        <toc-element topic="Functions.md">
+            <toc-element topic="Anonymous-Functions.md"/>
+        </toc-element>
+        <toc-element topic="Classes.md"/>
+    </toc-element>
+</instance-profile>
